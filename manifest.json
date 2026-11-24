@@ -4,12 +4,12 @@
   "manifest_version": 1,
   "description": "Личная библиотека статблоков мастера: импорт, поиск, привязка к токенам. Игроки данные не получают.",
   "author": "Мастер",
-  "icon": "https://ВАШ_НИК.github.io/ИМЯ_РЕПОЗИТОРИЯ/statblocks/icon.svg",
-  "background_url": "https://ВАШ_НИК.github.io/ИМЯ_РЕПОЗИТОРИЯ/statblocks/background.html",
+  "icon": "https://psaa00.github.io/Statblocks-OWR/statblocks/icon.svg",
+  "background_url": "https://psaa00.github.io/Statblocks-OWR/statblocks/background.html",
   "action": {
     "title": "Статблоки",
-    "icon": "https://ВАШ_НИК.github.io/ИМЯ_РЕПОЗИТОРИЯ/statblocks/icon.svg",
-    "popover": "https://ВАШ_НИК.github.io/ИМЯ_РЕПОЗИТОРИЯ/statblocks/index.html",
+    "icon": "https://psaa00.github.io/Statblocks-OWR/statblocks/icon.svg",
+    "popover": "https://psaa00.github.io/Statblocks-OWR/statblocks/index.html",
     "width": 440,
     "height": 620
   }
